@@ -1,4 +1,7 @@
 #!/bin/bash
+# AUTHOR  CHUCK NORRIS
+#
+#
 c1()
 {
     echo "           _^____      "
