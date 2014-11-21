@@ -6,20 +6,20 @@ c1()
 {
     echo "           _^____      "
     echo "   *    __/    []\\     "
-    echo "  *O*===_         \\    "
-    echo "   *     \\_________]   "
-    echo "           I   I       "
-    echo "          -------/     "
+    echo "  *O*===_         \\     "
+    echo "   *     \\_________]    "
+    echo "           I   I        "
+    echo "          -------/      "
     sleep 0.1
 }
 c2()
 {
-    echo "           _^____      "
-    echo "  * *   __/    []\\     "
-    echo "   O====_         \\    "
-    echo "  * *    \\_________]   "
-    echo "           I   I       "
-    echo "          -------/     "
+    echo "           _^____       "
+    echo "  * *   __/    []\\      "
+    echo "   O====_         \\     "
+    echo "  * *    \\_________]    "
+    echo "           I   I        "
+    echo "          -------/      "
     sleep 0.1
 }
 echo -e "\n\n\n\n\n\n\n\n\n\033[8F\033[s"
