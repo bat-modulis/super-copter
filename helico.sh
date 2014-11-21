@@ -10,7 +10,7 @@ c1()
     echo "   L     \\_________]   "
     echo "           I   I       "
     echo "          -------/     "
-    sleep 0.1
+    sleep 0.01
 }
 c2()
 {
@@ -20,7 +20,7 @@ c2()
     echo "  L L    \\_________]   "
     echo "           I   I       "
     echo "          -------/     "
-    sleep 0.1
+    sleep 0.01
 }
 echo -e "\n\n\n\n\n\n\n\n\n\033[8F\033[s"
 while [ 1 = 1 ]
