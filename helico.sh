@@ -2,6 +2,8 @@
 # AUTHOR  CHUCK NORRIS
 #
 #
+
+#frame 0
 c1()
 {
     echo "           _^____      "
@@ -12,6 +14,8 @@ c1()
     echo "          -------/      "
     sleep 0.1
 }
+
+# frame 1
 c2()
 {
     echo "           _^____       "
